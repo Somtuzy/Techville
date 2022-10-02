@@ -1,0 +1,32 @@
+#header-image {width: 100px; height: 100px;}
+
+#main-header
+                {
+                    text-align:center;
+                    background-color: black;
+                    color:deeppink ;
+                    font-size: 15px;
+                    font-style: italic;
+                    padding: 10px;
+                }
+
+                #main-footer
+                {
+                    text-align: center;
+                    background-color: black;
+                    font-size: 5px;
+                    color: blanchedalmond;
+                    padding: 5px;
+                }
+
+                body{
+                    background-color: rgb(162, 144, 147);
+                }
+
+                #categories{
+                    border: 5px 5px;
+                    border-style: solid;
+                    border-color: black;
+                    border-radius: 12px;}
+
+                    .categories {text-align: center;}
